@@ -1,0 +1,10 @@
+Name=fcl-db
+Version=3.2.2
+Checksum=1420791906
+CPU=x86_64
+OS=win64
+SourcePath=b:\tmp_lazbuild64\fpc-source\packages\fcl-db\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -dx86_64 -o -dRELEASE
+Depends=rtl,fcl-base|1420791897,fcl-xml|1420791898,rtl-objpas|1420791897,rtl-extra|1420791896,ibase|1420791904,mysql|1420791904,odbc|1420791904,oracle|1420791905,postgres|1420791905,sqlite|1420791905,dblib|1420791904,fcl-json|1420791905
+NeedLibC=N
+FPMakeAddIn=N

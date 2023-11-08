@@ -1,0 +1,10 @@
+Name=pastojs
+Version=3.2.2
+Checksum=1420791927
+CPU=x86_64
+OS=win64
+SourcePath=b:\tmp_lazbuild64\fpc-source\packages\pastojs\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -dx86_64 -o -dRELEASE
+Depends=rtl,paszlib|1420791897,fcl-js|1420791909,fcl-json|1420791905,fcl-passrc|1420791910,fcl-process|1420791910
+NeedLibC=N
+FPMakeAddIn=N

@@ -1,0 +1,10 @@
+Name=graph
+Version=3.2.2
+Checksum=1420791917
+CPU=x86_64
+OS=win64
+SourcePath=b:\tmp_lazbuild64\fpc-source\packages\graph\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -dx86_64 -o -dRELEASE
+Depends=rtl,ptc|1420791916,fcl-base|1420791897,hermes|1420791916,opengl|1420791914
+NeedLibC=N
+FPMakeAddIn=N

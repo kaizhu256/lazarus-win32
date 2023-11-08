@@ -1,0 +1,10 @@
+Name=fv
+Version=3.2.2
+Checksum=1420791916
+CPU=x86_64
+OS=win64
+SourcePath=b:\tmp_lazbuild64\fpc-source\packages\fv\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -dx86_64 -o -dRELEASE
+Depends=rtl,rtl-console|1420791916,rtl-extra|1420791896
+NeedLibC=N
+FPMakeAddIn=N

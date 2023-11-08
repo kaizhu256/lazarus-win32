@@ -1,0 +1,10 @@
+Name=googleapi
+Version=3.2.2
+Checksum=1420791924
+CPU=x86_64
+OS=win64
+SourcePath=b:\tmp_lazbuild64\fpc-source\packages\googleapi\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -dx86_64 -o -dRELEASE
+Depends=rtl,fcl-base|1420791897,rtl-extra|1420791896,rtl-objpas|1420791897,fcl-json|1420791905,fcl-web|1420791914
+NeedLibC=N
+FPMakeAddIn=N
