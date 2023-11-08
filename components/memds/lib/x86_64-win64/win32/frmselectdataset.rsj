@@ -1,0 +1,11 @@
+{"version":1,"strings":[
+{"hash":109140356,"name":"frmselectdataset.serrcomponentnotfound","sourcebytes":[69,114,114,111,114,58,32,67,111,109,112,111,110,101,110,116,32,34,37,115,34,32,110,111,116,32,102,111,117,110,100],"value":"Error: Component \"%s\" not found"},
+{"hash":36841988,"name":"frmselectdataset.smenucreatedataset","sourcebytes":[67,114,101,97,116,101,32,100,97,116,97,115,101,116],"value":"Create dataset"},
+{"hash":121502404,"name":"frmselectdataset.smenucopydataset","sourcebytes":[67,111,112,121,32,100,97,116,97,32,102,114,111,109,32,68,97,116,97,115,101,116],"value":"Copy data from Dataset"},
+{"hash":241259172,"name":"frmselectdataset.serrselectdataset","sourcebytes":[80,108,101,97,115,101,32,115,101,108,101,99,116,32,97,32,100,97,116,97,115,101,116,32,102,105,114,115,116],"value":"Please select a dataset first"},
+{"hash":175445053,"name":"frmselectdataset.scaption","sourcebytes":[83,101,108,101,99,116,32,100,97,116,97,115,101,116,32,116,111,32,99,111,112,121,32,102,114,111,109],"value":"Select dataset to copy from"},
+{"hash":240281313,"name":"frmselectdataset.scopymeta","sourcebytes":[67,111,112,121,32,111,110,108,121,32,109,101,116,97,100,97,116,97],"value":"Copy only metadata"},
+{"hash":183738506,"name":"frmselectdataset.sdataset","sourcebytes":[38,68,97,116,97,115,101,116,32,116,111,32,99,111,112,121,32,102,114,111,109,58],"value":"&Dataset to copy from:"},
+{"hash":1339,"name":"frmselectdataset.sokbtn","sourcebytes":[79,75],"value":"OK"},
+{"hash":77089212,"name":"frmselectdataset.scancelbtn","sourcebytes":[67,97,110,99,101,108],"value":"Cancel"}
+]}

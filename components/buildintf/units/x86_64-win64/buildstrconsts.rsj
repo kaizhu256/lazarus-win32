@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":128485395,"name":"buildstrconsts.lisshowalloutputlines","sourcebytes":[83,104,111,119,32,97,108,108,32,111,117,116,112,117,116,32,108,105,110,101,115],"value":"Show all output lines"},
+{"hash":250641634,"name":"buildstrconsts.lisunabletofindparserfortool","sourcebytes":[85,110,97,98,108,101,32,116,111,32,102,105,110,100,32,112,97,114,115,101,114,32,102,111,114,32,116,111,111,108,32,34,37,115,34],"value":"Unable to find parser for tool \"%s\""},
+{"hash":79496850,"name":"buildstrconsts.lisunabletofindparserwithname","sourcebytes":[85,110,97,98,108,101,32,116,111,32,102,105,110,100,32,112,97,114,115,101,114,32,119,105,116,104,32,110,97,109,101,32,34,37,115,34],"value":"Unable to find parser with name \"%s\""},
+{"hash":129060500,"name":"buildstrconsts.lirsunit","sourcebytes":[80,97,115,99,97,108,32,117,110,105,116],"value":"Pascal unit"},
+{"hash":95301566,"name":"buildstrconsts.liscreateanewpascalunit","sourcebytes":[67,114,101,97,116,101,32,97,32,110,101,119,32,112,97,115,99,97,108,32,117,110,105,116,46],"value":"Create a new pascal unit."}
+]}

@@ -1,0 +1,21 @@
+{"version":1,"strings":[
+{"hash":66907555,"name":"heaptrcview.stacktraceformat","sourcebytes":[76,101,97,107,58,32,37,100,32,98,121,116,101,115,32,120,32,37,100,32,116,105,109,101,115],"value":"Leak: %d bytes x %d times"},
+{"hash":219729235,"name":"heaptrcview.stacktraceformatsingle","sourcebytes":[76,101,97,107,58,32,37,100,32,98,121,116,101,115],"value":"Leak: %d bytes"},
+{"hash":59504256,"name":"heaptrcview.stacklineformatwithfile","sourcebytes":[37,115,32,102,105,108,101,58,32,37,115,32,58,32,37,100,59,32],"value":"%s file: %s : %d; "},
+{"hash":707,"name":"heaptrcview.stacklineformat","sourcebytes":[37,115],"value":"%s"},
+{"hash":11292196,"name":"heaptrcview.strtotalmemalloc","sourcebytes":[84,111,116,97,108,32,77,101,109,32,97,108,108,111,99,97,116,101,100,58,32,37,100],"value":"Total Mem allocated: %d"},
+{"hash":28391124,"name":"heaptrcview.strleakingmemsize","sourcebytes":[76,101,97,107,105,110,103,32,77,101,109,32,83,105,122,101,58,32,37,100],"value":"Leaking Mem Size: %d"},
+{"hash":63806340,"name":"heaptrcview.strleakingblockscount","sourcebytes":[76,101,97,107,105,110,103,32,66,108,111,99,107,115,32,67,111,117,110,116,58,32,37,100],"value":"Leaking Blocks Count: %d"},
+{"hash":161389445,"name":"heaptrcview.rserrorparse","sourcebytes":[69,114,114,111,114,32,119,104,105,108,101,32,112,97,114,115,105,110,103,32,116,114,97,99,101,32,102,105,108,101],"value":"Error while parsing trace file"},
+{"hash":126785337,"name":"heaptrcview.rsdtimes","sourcebytes":[32,40,37,100,32,116,105,109,101,115,41],"value":" (%d times)"},
+{"hash":132847139,"name":"heaptrcview.rsleakview","sourcebytes":[76,101,97,107,115,32,97,110,100,32,84,114,97,99,101,115],"value":"Leaks and Traces"},
+{"hash":139918229,"name":"heaptrcview.slbltrace","sourcebytes":[46,116,114,99,32,102,105,108,101],"value":".trc file"},
+{"hash":96905381,"name":"heaptrcview.sbtnupdate","sourcebytes":[85,112,100,97,116,101],"value":"Update"},
+{"hash":181434420,"name":"heaptrcview.sbtnclipbrd","sourcebytes":[80,97,115,116,101,32,67,108,105,112,98,111,97,114,100],"value":"Paste Clipboard"},
+{"hash":147481493,"name":"heaptrcview.sbtnresolve","sourcebytes":[82,101,115,111,108,118,101],"value":"Resolve"},
+{"hash":257940033,"name":"heaptrcview.schkraw","sourcebytes":[82,97,119,32,108,101,97,107,32,100,97,116,97],"value":"Raw leak data"},
+{"hash":119198672,"name":"heaptrcview.schktop","sourcebytes":[83,116,97,121,32,111,110,32,116,111,112],"value":"Stay on top"},
+{"hash":3331810,"name":"heaptrcview.sfrmcap","sourcebytes":[76,101,97,107,115,32,97,110,100,32,84,114,97,99,101,115,32,45,32,72,101,97,112,84,114,99,32,97,110,100,32,71,68,66,32,98,97,99,107,116,114,97,99,101,32,111,117,116,112,117,116,32,118,105,101,119,101,114],"value":"Leaks and Traces - HeapTrc and GDB backtrace output viewer"},
+{"hash":263007327,"name":"heaptrcview.sfrmselectfilewithdebuginfo","sourcebytes":[83,101,108,101,99,116,32,102,105,108,101,32,119,105,116,104,32,100,101,98,117,103,32,105,110,102,111],"value":"Select file with debug info"},
+{"hash":131391207,"name":"heaptrcview.sfrmselecttrcfile","sourcebytes":[83,101,108,101,99,116,32,102,105,108,101,32,119,105,116,104,32,116,114,97,99,101,32,108,111,103],"value":"Select file with trace log"}
+]}

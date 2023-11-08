@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":2812976,"name":"lazchmhelp.help_current_menu","sourcebytes":[38,72,101,108,112],"value":"&Help"},
+{"hash":110539712,"name":"lazchmhelp.help_current_idecmd","sourcebytes":[83,104,111,119,32,104,101,108,112],"value":"Show help"},
+{"hash":217378880,"name":"lazchmhelp.help_category_idecmd","sourcebytes":[67,72,77,32,72,101,108,112],"value":"CHM Help"},
+{"hash":225987616,"name":"lazchmhelp.help_missinglhelp","sourcebytes":[77,105,115,115,105,110,103,32,108,104,101,108,112],"value":"Missing lhelp"},
+{"hash":129147875,"name":"lazchmhelp.help_unabletofindthelhelpviewerpleasecompilethelhelppro","sourcebytes":[85,110,97,98,108,101,32,116,111,32,102,105,110,100,32,116,104,101,32,108,104,101,108,112,32,118,105,101,119,101,114,58,37,115,37,115,37,115,80,108,101,97,115,101,32,99,111,109,112,105,108,101,32,116,104,101,32,108,104,101,108,112,32,112,114,111,106,101,99,116,58,37,115,37,115],"value":"Unable to find the lhelp viewer:%s%s%sPlease compile the lhelp project:%s%s"}
+]}

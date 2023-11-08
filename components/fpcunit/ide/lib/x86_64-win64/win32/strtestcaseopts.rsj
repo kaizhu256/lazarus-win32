@@ -1,0 +1,16 @@
+{"version":1,"strings":[
+{"hash":250077091,"name":"strtestcaseopts.sfrmtest","sourcebytes":[84,101,115,116,67,97,115,101,32,79,112,116,105,111,110,115],"value":"TestCase Options"},
+{"hash":5538755,"name":"strtestcaseopts.sgrpnames","sourcebytes":[78,97,109,101,115],"value":"Names"},
+{"hash":102343285,"name":"strtestcaseopts.slbldefault","sourcebytes":[68,101,102,97,117,108,116,32,84,101,115,116,32,78,97,109,101],"value":"Default Test Name"},
+{"hash":219135173,"name":"strtestcaseopts.sgrpfixture","sourcebytes":[70,105,120,116,117,114,101],"value":"Fixture"},
+{"hash":204183876,"name":"strtestcaseopts.schksetup","sourcebytes":[67,114,101,97,116,101,32,83,101,116,117,112,32,77,101,116,104,111,100],"value":"Create Setup Method"},
+{"hash":133566292,"name":"strtestcaseopts.schktear","sourcebytes":[67,114,101,97,116,101,32,84,101,97,114,68,111,119,110,32,109,101,116,104,111,100],"value":"Create TearDown method"},
+{"hash":171790468,"name":"strtestcaseopts.sbtncreate","sourcebytes":[67,114,101,97,116,101,32,117,110,105,116],"value":"Create unit"},
+{"hash":218233230,"name":"strtestcaseopts.sfpcuntestapp","sourcebytes":[70,80,67,85,110,105,116,32,84,101,115,116,32,65,112,112,108,105,99,97,116,105,111,110],"value":"FPCUnit Test Application"},
+{"hash":120826830,"name":"strtestcaseopts.sfpcuntestappdesc","sourcebytes":[65,110,32,97,112,112,108,105,99,97,116,105,111,110,32,116,111,32,114,117,110,32,70,80,67,85,110,105,116,32,116,101,115,116,32,99,97,115,101,115,46],"value":"An application to run FPCUnit test cases."},
+{"hash":254380693,"name":"strtestcaseopts.sfpcuntestcase","sourcebytes":[70,80,67,85,110,105,116,32,84,101,115,116,32,67,97,115,101],"value":"FPCUnit Test Case"},
+{"hash":167549966,"name":"strtestcaseopts.sfpcuntestcasedesc","sourcebytes":[65,32,117,110,105,116,32,99,111,110,116,97,105,110,105,110,103,32,97,32,70,80,67,85,110,105,116,32,84,101,115,116,32,67,97,115,101,46],"value":"A unit containing a FPCUnit Test Case."},
+{"hash":16469748,"name":"strtestcaseopts.swriteyourowntest","sourcebytes":[87,114,105,116,101,32,121,111,117,114,32,111,119,110,32,116,101,115,116],"value":"Write your own test"},
+{"hash":193952590,"name":"strtestcaseopts.sfpcunconsoletestapp","sourcebytes":[70,80,67,85,110,105,116,32,67,111,110,115,111,108,101,32,84,101,115,116,32,65,112,112,108,105,99,97,116,105,111,110],"value":"FPCUnit Console Test Application"},
+{"hash":81268126,"name":"strtestcaseopts.sfpcunconsoletestdesc","sourcebytes":[65,110,32,97,112,112,108,105,99,97,116,105,111,110,32,116,111,32,114,117,110,32,70,80,67,85,110,105,116,32,116,101,115,116,32,99,97,115,101,115,32,105,110,32,99,111,110,115,111,108,101,32,109,111,100,101,46],"value":"An application to run FPCUnit test cases in console mode."}
+]}
