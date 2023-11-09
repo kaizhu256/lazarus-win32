@@ -1,0 +1,10 @@
+Name=ptc
+Version=3.2.2
+Checksum=1420792535
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\ptc\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,hermes|1420792535,opengl|1420792533,fcl-base|1420792517,rtl-console|1420792534
+NeedLibC=N
+FPMakeAddIn=N

@@ -1,0 +1,10 @@
+Name=cdrom
+Version=3.2.2
+Checksum=1420792518
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\cdrom\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl
+NeedLibC=N
+FPMakeAddIn=N

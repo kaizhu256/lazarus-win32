@@ -1,0 +1,10 @@
+Name=vcl-compat
+Version=3.2.2
+Checksum=1420792554
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\vcl-compat\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,fcl-base|1420792517,fcl-xml|1420792518,fcl-web|1420792533,rtl-extra|1420792515
+NeedLibC=N
+FPMakeAddIn=N

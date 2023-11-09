@@ -1,0 +1,10 @@
+Name=ide
+Version=3.2.2
+Checksum=1420792554
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\ide\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,rtl-extra|1420792515,fv|1420792535,chm|1420792522,regexpr|1420792538,fcl-process|1420792529
+NeedLibC=N
+FPMakeAddIn=N

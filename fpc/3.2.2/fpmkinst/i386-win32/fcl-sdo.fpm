@@ -1,0 +1,10 @@
+Name=fcl-sdo
+Version=3.2.2
+Checksum=1420792532
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\fcl-sdo\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,fcl-base|1420792517,fcl-xml|1420792518,fcl-db|1420792525
+NeedLibC=N
+FPMakeAddIn=N

@@ -1,0 +1,10 @@
+Name=winunits-jedi
+Version=3.2.2
+Checksum=1420792528
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\winunits-jedi\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,winunits-base|1420792525
+NeedLibC=Y
+FPMakeAddIn=N

@@ -1,0 +1,10 @@
+Name=graph
+Version=3.2.2
+Checksum=1420792535
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\graph\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl,sdl|1420792535,ptc|1420792535,fcl-base|1420792517,hermes|1420792535,opengl|1420792533
+NeedLibC=N
+FPMakeAddIn=N

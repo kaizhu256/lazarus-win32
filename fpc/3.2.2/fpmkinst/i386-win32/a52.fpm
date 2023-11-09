@@ -1,0 +1,10 @@
+Name=a52
+Version=3.2.2
+Checksum=1420792515
+CPU=i386
+OS=win32
+SourcePath=B:\Installers\build_sources\fpc_build.git\fpcsrc\packages\a52\
+FPMakeOptions=-o -Ur -o -Xs -o -O2 -o -n -o -Ur -o -CX -o -di386 -o -dRELEASE
+Depends=rtl
+NeedLibC=Y
+FPMakeAddIn=N
