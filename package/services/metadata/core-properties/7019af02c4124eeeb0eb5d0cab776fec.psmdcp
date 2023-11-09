@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"><dc:creator>Lazarus Team</dc:creator><dc:description>Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development (RAD) using the Free Pascal compiler, which supports dialects of Object Pascal, to varying degrees. Software developers use Lazarus to create native-code console and graphical user interface (GUI) applications for the desktop, and also for mobile devices, web applications, web services, visual components and function libraries (.so, .dll, etc., for use by other programs). 
+    
+    The Free Pascal compiler supports a number of different platforms, such as Mac, Linux and Windows. Along with the customary project management features, the Lazarus IDE also provides features that includes but are not limited to:
+
+ - A What You See Is What You Get (WYSIWYG) visual windows layout designer
+ - An extensive set of GUI widgets or visual components such as edit boxes, buttons, dialogs, menus, etc.
+ - An extensive set of non-visual components for common behaviors such as persistence of application settings
+ - A set of data-connectivity components for MySQL, PostgreSQL, FireBird, Oracle, SQLite, Sybase, and others
+ - Data-aware widget set that allows the developer to see data in visual components in the designer to assist with development
+ - Interactive code debugger
+ - Code completion
+ - Code templates
+ - Syntax highlighting
+ - Context-sensitive help
+ - Text resource manager for internationalisation (internationalization)
+ - Automatic code formatting
+ - The ability to create custom components
+
+Lazarus inherits three features from its use of the Free Pascal compiler: compile speed, execution speed, and cross-compilation.</dc:description><dc:identifier>lazarus</dc:identifier><version>2.2.2</version><keywords>lazarus fpc pascal delphi ide admin</keywords><dc:title>Lazarus</dc:title><lastModifiedBy>choco, Version=1.1.0.0, Culture=neutral, PublicKeyToken=79d02ea9cad655eb;Microsoft Windows NT 10.0.14393.0;.NET Framework 4</lastModifiedBy></coreProperties>

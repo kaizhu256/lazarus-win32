@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>lazarus</id>
+    <version>2.2.2</version>
+    <title>Lazarus</title>
+    <authors>Lazarus Team</authors>
+    <owners>micksmix</owners>
+    <licenseUrl>http://wiki.lazarus.freepascal.org/licensing</licenseUrl>
+    <projectUrl>https://www.lazarus-ide.org</projectUrl>
+    <iconUrl>https://a.fsdn.com/allura/p/lazarus/icon?1552026857</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lazarus is a free cross-platform visual integrated development environment (IDE) for rapid application development (RAD) using the Free Pascal compiler, which supports dialects of Object Pascal, to varying degrees. Software developers use Lazarus to create native-code console and graphical user interface (GUI) applications for the desktop, and also for mobile devices, web applications, web services, visual components and function libraries (.so, .dll, etc., for use by other programs). 
+    
+    The Free Pascal compiler supports a number of different platforms, such as Mac, Linux and Windows. Along with the customary project management features, the Lazarus IDE also provides features that includes but are not limited to:
+
+ - A What You See Is What You Get (WYSIWYG) visual windows layout designer
+ - An extensive set of GUI widgets or visual components such as edit boxes, buttons, dialogs, menus, etc.
+ - An extensive set of non-visual components for common behaviors such as persistence of application settings
+ - A set of data-connectivity components for MySQL, PostgreSQL, FireBird, Oracle, SQLite, Sybase, and others
+ - Data-aware widget set that allows the developer to see data in visual components in the designer to assist with development
+ - Interactive code debugger
+ - Code completion
+ - Code templates
+ - Syntax highlighting
+ - Context-sensitive help
+ - Text resource manager for internationalisation (internationalization)
+ - Automatic code formatting
+ - The ability to create custom components
+
+Lazarus inherits three features from its use of the Free Pascal compiler: compile speed, execution speed, and cross-compilation.</description>
+    <summary>Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development. It has variety of components ready for use and a graphical form designer to easily create complex graphical user interfaces.</summary>
+    <tags>lazarus fpc pascal delphi ide admin</tags>
+    <projectSourceUrl>https://gitlab.com/freepascal.org/lazarus</projectSourceUrl>
+    <packageSourceUrl>https://github.com/MicksMix/chocolatey-lazarus</packageSourceUrl>
+    <docsUrl>http://wiki.freepascal.org/</docsUrl>
+  </metadata>
+</package>
